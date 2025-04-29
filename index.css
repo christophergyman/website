@@ -1,0 +1,14 @@
+.center {
+    margin: auto;
+    width: 45%;
+    padding: 10px;
+    line-height: 1.4;
+    font-size: 125%;
+}
+
+.quote{
+    font-style: italic;
+    color: #4d4d4d;
+    padding-left: 2%;
+    padding-right: 2%;
+}
